@@ -1,4 +1,4 @@
-module github.com/kylee001/jsonschema
+module github.com/kylee001/jsonschema/v9
 
 go 1.22
 
