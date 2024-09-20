@@ -1,4 +1,4 @@
-module github.com/santhosh-tekuri/jsonschema/v7
+module github.com/kylee001/jsonschema
 
 go 1.22
 
